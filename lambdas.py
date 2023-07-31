@@ -1,6 +1,8 @@
 '''
+lambdas.py
+
 Just-for-fun lambda functions for any use. If you liked this project, please contribute/star it!
-gh: https://github.com/aeiea/lambdas
+gh: https://github.com/aeiea/lambdas.py
 Copyright © 2000 aeiea <dpthn at proton dot me>
 This work is free. You can redistribute it and/or modify it under the
 terms of the Do What The Fuck You Want To Public License, Version 2,
